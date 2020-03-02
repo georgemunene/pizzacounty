@@ -38,7 +38,7 @@ function getAmount(flavour, size, crust, topping, number) {
       parseInt(topping.val())) *
     parseInt(number.val());
   alert(
-    "You've ordered " +
+    "You have ordered " +
       number.val() +
       " "  +
       "pizza's" +
@@ -51,9 +51,9 @@ function getAmount(flavour, size, crust, topping, number) {
       " "  +
       topping.html() +
       " "  +
-      " which amounts to Ksh. "  +
+      " The total amount is Ksh.  "  +
       results +
-      " Thanks for your order,welcome again!"
+      " Thank you for choosing us!"
   );
  
   var loc = prompt("Enter your location");
