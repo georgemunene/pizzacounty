@@ -57,7 +57,7 @@ function getAmount(flavour, size, crust, topping, number) {
   );
  
   var loc = prompt("Enter your location");
-  alert("Your order will be delivered in a while, delivery fee is  Ksh.150/=" + "at  " + " " + loc);
+  alert("Thank you for requesting delivery.Your order will cost Ksh 400 and will be delivered at " + loc);
 }
 function getPick(flavour, size, crust, topping, number) {
   var results =
@@ -79,9 +79,9 @@ function getPick(flavour, size, crust, topping, number) {
     "  "  +
     topping.html() +
     "  "  +
-    " which amounts to Ksh. " +
+    ".The total amount will be Ksh. " +
       results  +
-      "  Thanks for shopping with us  "
+      "  Thank you for choosing us  "
   );
 }
 $(document).ready(function() {
