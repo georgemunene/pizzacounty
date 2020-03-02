@@ -90,9 +90,9 @@ function getAmount(flavour, size, crust, topping, number) {
       results +
       " Thanks for your order,welcome again!"
   );
-  prompt("Enter your location");
   prompt("Enter your name");
   prompt("Enter your phone number");
+  prompt("Enter your location");
   alert("Your order will be delivered in a while, delivery fee is  Ksh.150/=");
 }
 function getPick(flavour, size, crust, topping, number) {
