@@ -4,6 +4,8 @@
   box-sizing: border-box;
 }
 
+
+
 .navbar {
   font-size: 25px !important;
   background-color: goldenrod !important;
@@ -17,7 +19,7 @@
 
 .toppage {
   height: 100vh;
-  background-image: url("https://bit.ly/2rN3jm8");
+  /* background-image: url("https://bit.ly/2rN3jm8"); */
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
