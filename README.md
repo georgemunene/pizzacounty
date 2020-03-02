@@ -23,4 +23,4 @@ Here is the link to gh-pages : georgemunene.github.io/pizzacounty
 contact me via github @georgemunene.
 
 ## license
-This is a free product
+This is a free product.
