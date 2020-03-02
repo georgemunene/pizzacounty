@@ -67,7 +67,7 @@ function getPick(flavour, size, crust, topping, number) {
   parseInt(topping.val())) *
   parseInt(number.val());
   alert(
-    "You've ordered "  +
+    "You have ordered "  +
     number.val() +
     " "  +
     " pizza's, "  +
