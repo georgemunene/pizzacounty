@@ -20,7 +20,7 @@ All that is needed is a web browser.click on index.html and enjoy.
 Here is the link to gh-pages : georgemunene.github.io/pizzacounty
 
 ## contact
-contact me via github @georgemunene
+contact me via github @georgemunene.
 
 ## license
 This is a free product.
