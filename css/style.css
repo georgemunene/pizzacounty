@@ -54,21 +54,14 @@
 .myform {
   padding: 16px 20px;
 }
-footer {
-  background-color:burlywood;
-  height: 20vh;
-  font-size: 1vw;
-  font-weight: bold;
-}
 
-/* Small devices (landscape phones, 576px and down) */
+
+
 @media (max-width: 576px) {
   .landingtext > h1 {
     font-size: 9vw;
   }
-  footer {
-    height: 30vh;
-    font-size:5vw;
+
 
   }
 }
